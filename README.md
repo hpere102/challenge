@@ -11,5 +11,16 @@ Horiseon is a service that helps companies with information and insight using se
 * HTML
 * CSS
 
-## 
+## Refactor
+
+## Codebase changes
+
+* Addition of semantic elements
+* Addition of <img alt=""> attributes
+* Heading attributes placed in sequential order
+* Change in <title> attribute
+
+### Bug fixes
+
+* "search-engine-optimization" <nav> link 
 
