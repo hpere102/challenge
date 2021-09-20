@@ -22,7 +22,7 @@ Horiseon is a service that helps companies with information and insight using se
 * Heading attributes placed in sequential order
 * Change in title attribute
 
-#### Bug fixes
+### Bug fixes
 
 * "search-engine-optimization" navigation link 
 
