@@ -18,11 +18,11 @@ Horiseon is a service that helps companies with information and insight using se
 ## Codebase changes
 
 * Addition of semantic elements
-* Addition of <img alt=""> attributes
+* Addition of img alt attributes
 * Heading attributes placed in sequential order
-* Change in <title> attribute
+* Change in title attribute
 
 ### Bug fixes
 
-* "search-engine-optimization" <nav> link 
+* "search-engine-optimization" navigation link 
 
